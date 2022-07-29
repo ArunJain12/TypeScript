@@ -8,7 +8,7 @@ class EmployeeConstructor {
     department: string;
     designation: string;
     
-    constructor(id, name, department, designation) {
+    constructor(id: number, name: string, department: string, designation: string) {
         this.id = id;
         this.name = name;
         this.department = department;
