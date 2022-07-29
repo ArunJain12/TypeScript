@@ -1,0 +1,3 @@
+To Run ts files -
+a) Run command tsc <file_name>
+b) Run command node <file_name>
